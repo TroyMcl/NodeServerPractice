@@ -1,0 +1,16 @@
+{
+  "name": "server-practice",
+  "version": "1.0.0",
+  "description": "Simple walk through of an Express server to help understand the basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Troy Mclaughlin",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
